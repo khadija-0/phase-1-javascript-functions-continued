@@ -1,5 +1,5 @@
 describe("index.js", () => {
-  describe("defines saturdayFun function declaration as specified", function() {
+  describe("defines saturdayFun function declaratigit addon as specified", function() {
     it("function exists", function() {
       expect(saturdayFun).to.exist
     })
